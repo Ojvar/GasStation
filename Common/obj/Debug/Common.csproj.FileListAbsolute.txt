@@ -1,0 +1,9 @@
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\bin\Debug\Common.dll
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\bin\Debug\Common.pdb
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\bin\Debug\BaseBLL.dll
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\bin\Debug\BaseDAL.dll
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\obj\Debug\Common.Properties.Resources.resources
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\obj\Debug\Common.dll
+c:\Users\Ojvar\documents\visual studio 2015\Projects\TestApp\Common\obj\Debug\Common.pdb
